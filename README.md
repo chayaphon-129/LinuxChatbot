@@ -12,6 +12,6 @@ pip install python-dotenv
 pip install faiss-cpu
 
 
-กรอก OpenAPI Key ของคุณในไฟล์ .env 
+กรอก OpenAI API Key ของคุณในไฟล์ .env 
 
 แล้วรัน streamlit run open.py ใน Terminal
